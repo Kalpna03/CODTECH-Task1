@@ -12,6 +12,9 @@ Mentor:GOUNI SRAVANI
 
 Overview of the Project
 
+
+Project:To-do-list
+
 <img width="959" alt="image" src="https://github.com/Kalpna03/CODTECH-Task1/assets/139703730/f832ab43-8a18-4bea-b4be-bccc3214bd02">
 
 
@@ -19,7 +22,7 @@ Overview of the Project
 
 
 
-Project:To-do-list
+
 
 ## Objective
 
